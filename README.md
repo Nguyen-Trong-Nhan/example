@@ -9,3 +9,6 @@ This is a sample readme file for our Github repo. We're learning Markdown.
 ## Link Example
 
 [Clickhear](http://hayhostudio.xyz/) 
+
+1. Item one
+2. item two
